@@ -1,4 +1,4 @@
-# Nishesh Sanjeev Chauhan
+# Nishesh Chauhan
 
 <!--**NSC-95-LM/NSC-95-LM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
