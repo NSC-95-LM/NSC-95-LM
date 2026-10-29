@@ -40,11 +40,11 @@ I’m curious about the entire journey of a website — from designing and devel
 <br><br>
 
 ## 📊 GitHub Stats:
-<p align="center">![](https://github-readme-stats.shion.dev/api?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![]<p align="center">(https://github-readme-stats.shion.dev/api?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
 <br><br>
-![](https://streak-stats.demolab.com/?user=NSC-95-LM&theme=dark&hide_border=false)
+![]<p align="center">(https://streak-stats.demolab.com/?user=NSC-95-LM&theme=dark&hide_border=false)</p>
 <br><br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
+![]<p align="center">(https://github-readme-stats.shion.dev/api/top-langs/?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
 <br><br>
 
 ---
