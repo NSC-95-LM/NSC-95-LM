@@ -48,5 +48,5 @@ I’m curious about the entire journey of a website — from designing and devel
 <br><br>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=NSC-95-LM&color=5)
+[![Profile Views](https://komarev.com/ghpvc/?username=NSC-95-LM)](https://visitcount.itsvg.in)
 <br><br>
