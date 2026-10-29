@@ -1,8 +1,4 @@
-# 💫 About Me:
-<br><br>
-
-## 👋 Hey, I'm NSC!
-<br>
+# Hello, this is Nishesh SC!
 I'm exploring the world of web development, with a current focus on frontend development and a long-term goal of becoming proficient in the MERN stack.
 <br><br>
 I enjoy building websites, experimenting with user interfaces, and turning ideas into functional web experiences. While I'm strengthening my frontend fundamentals, I'm also exploring backend development and learning how the different pieces of a web application fit together.
