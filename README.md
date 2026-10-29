@@ -40,12 +40,19 @@ I’m curious about the entire journey of a website — from designing and devel
 <br><br>
 
 ## 📊 GitHub Stats:
-![]<p align="center">(https://github-readme-stats.shion.dev/api?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</p>
-<br><br>
-![]<p align="center">(https://streak-stats.demolab.com/?user=NSC-95-LM&theme=dark&hide_border=false)</p>
-<br><br>
-![]<p align="center">(https://github-readme-stats.shion.dev/api/top-langs/?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</p>
-<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NSC-95-LM&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NSC-95-LM&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=NSC-95-LM)](https://visitcount.itsvg.in)
