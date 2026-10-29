@@ -1,5 +1,40 @@
 # 💫 About Me:
-## 👋 Hey, I'm NSC!<br><br>I'm exploring the world of web development, with a current focus on frontend development and a long-term goal of becoming proficient in the MERN stack.<br><br>I enjoy building websites, experimenting with user interfaces, and turning ideas into functional web experiences. While I'm strengthening my frontend fundamentals, I'm also exploring backend development and learning how the different pieces of a web application fit together.<br><br>Beyond development, I'm learning digital and performance marketing to understand how websites can do more than just look good — how they can reach the right audience, attract users, and drive results.<br><br>I'm still learning, experimenting, and figuring out where this journey takes me. For now, I'm focused on building, improving, and connecting the dots between development and digital growth.<br><br>### 🙋 Ask Me About<br><br>* 🎨 Frontend development and building websites<br>* 💻 My journey learning the MERN stack<br>* 📈 Exploring digital and performance marketing<br>* 🛠️ The projects I'm building and the things I'm learning along the way<br><br>### 🎲 Fun Fact<br><br>* 💡 I like exploring how websites work, not just how they look.<br>* 🔀 Currently connecting two worlds I'm curious about: web development and digital marketing.<br>* 🧪 Some of my best learning experiences start with an idea and a willingness to experiment.<br>* 🚀 My repositories are a mix of finished projects, coursework, and experiments in progress.<br><br>### 🌱 Currently Learning<br><br>* 🎨 Strengthening my frontend development skills<br>* ⚛️ Working toward proficiency in the MERN stack<br>* 📊 Exploring digital marketing and performance marketing<br>* 🔍 Understanding how development and marketing work together to build and grow websites<br><br>### 🧩 Beyond the Code<br><br>I’m curious about the entire journey of a website — from designing and developing it to getting it in front of the right audience. I'm exploring both development and marketing to understand how the two can work together.<br>
+## 👋 Hey, I'm NSC!
+<br><br>
+I'm exploring the world of web development, with a current focus on frontend development and a long-term goal of becoming proficient in the MERN stack.
+<br><br>
+I enjoy building websites, experimenting with user interfaces, and turning ideas into functional web experiences. While I'm strengthening my frontend fundamentals, I'm also exploring backend development and learning how the different pieces of a web application fit together.
+<br><br>
+Beyond development, I'm learning digital and performance marketing to understand how websites can do more than just look good — how they can reach the right audience, attract users, and drive results.<br><br>I'm still learning, experimenting, and figuring out where this journey takes me. For now, I'm focused on building, improving, and connecting the dots between development and digital growth.
+<br><br>
+
+### 🙋 Ask Me About
+<br><br>
+* 🎨 Frontend development and building websites <br>
+* 💻 My journey learning the MERN stack <br>
+* 📈 Exploring digital and performance marketing <br>
+* 🛠️ The projects I'm building and the things I'm learning along the way
+<br><br>
+
+### 🎲 Fun Fact 
+<br><br>
+* 💡 I like exploring how websites work, not just how they look. <br>
+* 🔀 Currently connecting two worlds I'm curious about: web development and digital marketing. <br>
+* 🧪 Some of my best learning experiences start with an idea and a willingness to experiment. <br>
+* 🚀 My repositories are a mix of finished projects, coursework, and experiments in progress.
+<br><br>
+
+### 🌱 Currently Learning
+<br><br>
+* 🎨 Strengthening my frontend development skills <br>
+* ⚛️ Working toward proficiency in the MERN stack <br>
+* 📊 Exploring digital marketing and performance marketing <br>
+* 🔍 Understanding how development and marketing work together to build and grow websites
+<br><br>
+
+### 🧩 Beyond the Code
+<br><br>
+I’m curious about the entire journey of a website — from designing and developing it to getting it in front of the right audience. I'm exploring both development and marketing to understand how the two can work together.<br>
 
 
 ## 🌐 Socials:
